@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Chandima Sewwandie</h1>
-<h3 align="center">🚀 Aspiring Software Developer | 🎓 Bachelor of Software Engineering(Hons) (Ongoing)</h3>
+<h3 align="center">🚀 Aspiring Software Developer | 🎓 Bachelor of Software Engineering (Ongoing)</h3>
 
 ---
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=kdcssewwandie&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
+
+<a target="_blank" align="left">
+  <img align="left" height="300" width="400" alt="Working on Computer Animation" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+</a>
 
 ---
 
@@ -16,15 +20,11 @@
 - 🌱 Currently enhancing my skills in **React**, **Vue.js**, **Firebase**, and **GSA** tools.  
 - 💻 I enjoy working with technologies like **React Native**, **Java**, **Python**, and **C++**.  
 
-<a target="_blank" align="right">
-  <img align="right" height="300" width="400" alt="Girl Working on a Computer" src="https://media.giphy.com/media/SvUG5pWr9PONbNTnWo/giphy.gif">
-</a>
-
 ---
 
 ## 🔗 **Connect with Me**
 <p align="left">
-    <a href="https://linkedin.com/in/chandima sewvandi" target="_blank">
+    <a href="https://linkedin.com/in/chandima sewwandie" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
 </p>
