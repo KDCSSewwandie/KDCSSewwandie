@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Chandima Sewwandie</h1>
-<h3 align="center">🚀 Aspiring Software Developer | 🎓 Bachelor of Software Engineering(Hons) (Ongoing)</h3>
+<div style="background-color: rgb(240, 248, 255); padding: 20px;">
+
+<h1 align="center" style="color: rgb(0, 0, 139);">Hi 👋, I'm Chandima Sewwandie</h1>
+<h3 align="center" style="color: rgb(25, 25, 112);">🚀 Aspiring Software Developer | 🎓 Bachelor of Software Engineering(Hons) (Ongoing)</h3>
 
 ---
 
@@ -17,7 +19,7 @@
 - 💻 I enjoy working with technologies like **React Native**, **Java**, **Python**, and **C++**.  
 
 <a target="_blank" align="right">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SvUG5pWr9PONbNTnWo/giphy.gif">
 </a>
 
 ---
@@ -84,3 +86,5 @@
 <p align="center">
     🎯 **Let's connect and build something great together!** 🚀  
 </p>
+
+</div>
