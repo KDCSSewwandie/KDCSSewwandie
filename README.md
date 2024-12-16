@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chandima Sewwandie</h1>
-<h3 align="center">🚀 Aspiring Software Developer | 🎓 Bachelor of Software Engineering (Ongoing)</h3>
+<h3 align="center">🚀 Aspiring Software Developer | 🎓 Bachelor of Software Engineering(Hons) (Ongoing)</h3>
 
 ---
 
