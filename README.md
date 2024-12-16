@@ -17,15 +17,18 @@
 - 💻 I enjoy working with technologies like **React Native**, **Java**, **Python**, and **C++**.  
 
 <a target="_blank" align="right">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+  <img align="right" top="500" height="300" width="400" alt="Girl Working on a Computer" src="https://media.giphy.com/media/SvUG5pWr9PONbNTnWo/giphy.gif">
 </a>
 
 ---
 
 ## 🔗 **Connect with Me**
 <p align="left">
-    <a href="https://linkedin.com/in/chandima sewvandi" target="_blank">
+    <a href="https://linkedin.com/in/chandima-sewvandi-637131231/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://github.com/KDCSSewwandie" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
 </p>
 
@@ -50,22 +53,25 @@
 ## 🚀 **Projects & Collaboration**
 
 - 🌟 **Currently Working On**:  
-   - A **React Native Learning App** to help beginners master coding concepts.  
-   - Tools: **Expo CLI**, **Flexbox**, **React Native Navigator**.  
+   - **React Native Learn Coding App**  
+     - Environment: **Expo CLI**, **Flexbox**, **React Native Stack Navigator**.  
+
+- ✅ **Past Projects**:
+   - **Python Cab Service**: Console-based application.  
+   - **Library System Analysis**: Use case diagrams and requirement elicitation.  
+   - **Business Website**: Built using **HTML, CSS, JavaScript**, and **Vue.js**.  
+   - **Fuel Delivery App**: Developed with **Java**, **Kotlin**, and **XML**.  
 
 - 🤝 **Looking to Collaborate On**:  
    - Web Development Projects (**HTML, CSS, JavaScript, Vue.js**).  
    - App Development with **Java** and **Firebase**.  
 
-- 💡 **Seeking Help With**:  
-   - API Integration and Testing for a **Fuel Delivery App**.  
-
 ---
 
-## 🎨 **What I'm Learning**
-- 🔹 **React Native** for cross-platform development  
-- 🔹 Advanced **Firebase** for cloud-based app functionality  
-- 🔹 Tools: **Vue.js**, **GSA Integration**, and **Postman**  
+## 🎓 **Certifications**
+
+- **Sololearn Java, Python (Beginner & Data Structures), and SQL Certifications**  
+- **EdX CS50**: Programming with Scratch  
 
 ---
 
