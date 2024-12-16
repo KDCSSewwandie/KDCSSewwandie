@@ -17,7 +17,7 @@
 - 💻 I enjoy working with technologies like **React Native**, **Java**, **Python**, and **C++**.  
 
 <a target="_blank" align="right">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+  <img align="right" height="300" width="400" alt="Girl Working on a Computer" src="https://media.giphy.com/media/SvUG5pWr9PONbNTnWo/giphy.gif">
 </a>
 
 ---
